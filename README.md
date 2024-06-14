@@ -1,2 +1,2 @@
 # EsameJava2
-Secondoe  etrzo esercizio della prova intermedia
+Secondoe  e terzo esercizio della prova intermedia
